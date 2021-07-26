@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="./images/icon/bot.png">
+  <img width="250" height="250" src="src/images/icon/bot.png">
 </p>
 <h1 align="center">Kal the BOT</h1>
 
